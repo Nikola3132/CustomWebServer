@@ -1,0 +1,9 @@
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\IRunes\IRunes.Models\bin\Debug\netstandard2.0\IRunes.Models.deps.json
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\IRunes\IRunes.Models\bin\Debug\netstandard2.0\IRunes.Models.dll
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\IRunes\IRunes.Models\bin\Debug\netstandard2.0\IRunes.Models.pdb
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.dll
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.pdb
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.csprojAssemblyReference.cache

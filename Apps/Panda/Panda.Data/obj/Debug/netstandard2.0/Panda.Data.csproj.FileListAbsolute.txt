@@ -1,0 +1,9 @@
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Panda\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.deps.json
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Panda\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.dll
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Panda\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.pdb
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Panda\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Panda\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Panda\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Panda\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.dll
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Panda\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.pdb
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Panda\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.csprojAssemblyReference.cache

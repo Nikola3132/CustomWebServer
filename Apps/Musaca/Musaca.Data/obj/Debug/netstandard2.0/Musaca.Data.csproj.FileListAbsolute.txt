@@ -1,0 +1,12 @@
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Data.deps.json
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Data.dll
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Data.pdb
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Models.dll
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Models.pdb
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.csproj.CopyComplete
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.dll
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.pdb

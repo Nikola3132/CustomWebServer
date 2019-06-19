@@ -1,0 +1,12 @@
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Data.deps.json
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Data.dll
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Data.pdb
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Models.dll
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Models.pdb
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.csproj.CopyComplete
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.dll
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.pdb

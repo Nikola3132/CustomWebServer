@@ -1,0 +1,14 @@
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\bin\Debug\netstandard2.0\Musaca.Services.deps.json
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\bin\Debug\netstandard2.0\Musaca.Services.dll
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\bin\Debug\netstandard2.0\Musaca.Services.pdb
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\bin\Debug\netstandard2.0\Musaca.Data.dll
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\bin\Debug\netstandard2.0\Musaca.Models.dll
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\bin\Debug\netstandard2.0\Musaca.Data.pdb
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\bin\Debug\netstandard2.0\Musaca.Models.pdb
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\obj\Debug\netstandard2.0\Musaca.Services.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\obj\Debug\netstandard2.0\Musaca.Services.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\obj\Debug\netstandard2.0\Musaca.Services.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\obj\Debug\netstandard2.0\Musaca.Services.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\obj\Debug\netstandard2.0\Musaca.Services.csproj.CopyComplete
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\obj\Debug\netstandard2.0\Musaca.Services.dll
+C:\Users\nikolaviktor3132\Desktop\SIS\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Apps\Musaca\Musaca.Services\obj\Debug\netstandard2.0\Musaca.Services.pdb

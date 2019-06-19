@@ -1,0 +1,9 @@
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Models\bin\Debug\netstandard2.0\SULS.Models.deps.json
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Models\bin\Debug\netstandard2.0\SULS.Models.dll
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Models\bin\Debug\netstandard2.0\SULS.Models.pdb
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Models\obj\Debug\netstandard2.0\SULS.Models.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Models\obj\Debug\netstandard2.0\SULS.Models.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Models\obj\Debug\netstandard2.0\SULS.Models.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Models\obj\Debug\netstandard2.0\SULS.Models.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Models\obj\Debug\netstandard2.0\SULS.Models.dll
+C:\Users\nikolaviktor3132\Desktop\exam 2\Apps\SULS\SULS.Models\obj\Debug\netstandard2.0\SULS.Models.pdb
